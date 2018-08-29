@@ -1,3 +1,3 @@
 # Largest Hourglass
 
-![Largest Hourglass](https://github.com/fortis/challenges/blob/master/largest-hourglass/problem.png | width=700)
+![Largest Hourglass](https://raw.githubusercontent.com/fortis/challenges/master/largest-hourglass/problem.png | width=700)
